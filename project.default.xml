@@ -1,0 +1,93 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="HaskellBuildOptions">
+        <ghcPath>/usr/bin/ghc</ghcPath>
+        <cabalPath>/usr/bin/cabal</cabalPath>
+      </component>
+      <component name="JavacSettings">
+        <option name="GENERATE_NO_WARNINGS" value="true" />
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="perkins" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>General</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/DataScience/datapunnet/cloudberry" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaCompilerConfiguration">
+        <option name="warnings" value="false" />
+      </component>
+      <component name="ScalaProjectSettings">
+        <option name="intInjectionMapping">
+          <map>
+            <entry key="xml" value="XML" />
+          </map>
+        </option>
+        <option name="showNotFoundImplicitArguments" value="false" />
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMEnabled" value="true" />
+        <option name="customVMPath" value="/usr/lib/jvm/java-1.11.0-openjdk-amd64" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="PERFORM_UPDATE_IN_BACKGROUND" value="false" />
+        <option name="PERFORM_COMMIT_IN_BACKGROUND" value="false" />
+        <option name="PERFORM_EDIT_IN_BACKGROUND" value="false" />
+        <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="false" />
+        <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="false" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>10</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
