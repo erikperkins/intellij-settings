@@ -1,0 +1,14 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <envs>
+      <env key="DB_HOST" value="postgres" />
+      <env key="DB_PORT" value="5432" />
+      <env key="DB_NAME" value="test" />
+      <env key="DB_USER" value="test" />
+      <env key="DB_PASSWORD" value="test" />
+      <env key="SF_ORGID" value="00D2E000001GOAn" />
+      <env key="SF_USERNAME" value="machine1@develop.sf.com" />
+      <env key="SF_PASSWORD" value="ocOU@5cYak6C" />
+    </envs>
+  </component>
+</application>
