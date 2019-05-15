@@ -9,6 +9,9 @@
       <env key="SF_ORGID" value="00D2E000001GOAn" />
       <env key="SF_USERNAME" value="machine1@develop.sf.com" />
       <env key="SF_PASSWORD" value="ocOU@5cYak6C" />
+      <env key="REDIS_HOST" value="localhost" />
+      <env key="REDIS_USER" value="test" />
+      <env key="REDIS_PASSWORD" value="test" />
     </envs>
   </component>
 </application>
