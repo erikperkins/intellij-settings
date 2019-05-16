@@ -12,6 +12,8 @@
       <env key="REDIS_HOST" value="localhost" />
       <env key="REDIS_USER" value="test" />
       <env key="REDIS_PASSWORD" value="test" />
+      <env key="DATABASE_URL" value="postgres://test:test@localhost:5432" />
+      <env key="REDIS_URL" value="redis://test:test@localhost:6379" />
     </envs>
   </component>
 </application>
