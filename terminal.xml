@@ -1,19 +1,12 @@
 <application>
   <component name="TerminalOptionsProvider">
     <envs>
-      <env key="DB_HOST" value="localhost" />
-      <env key="DB_PORT" value="5432" />
-      <env key="DB_NAME" value="test" />
-      <env key="DB_USER" value="test" />
-      <env key="DB_PASSWORD" value="test" />
       <env key="SF_ORGID" value="00D2E000001GOAn" />
       <env key="SF_USERNAME" value="machine1@develop.sf.com" />
       <env key="SF_PASSWORD" value="ocOU@5cYak6C" />
-      <env key="REDIS_HOST" value="localhost" />
-      <env key="REDIS_USER" value="test" />
-      <env key="REDIS_PASSWORD" value="test" />
-      <env key="DATABASE_URL" value="postgres://test:test@localhost:5432" />
+      <env key="DATABASE_URL" value="postgres://test:test@localhost:5432/test" />
       <env key="REDIS_URL" value="redis://test:test@localhost:6379" />
+      <env key="ADMIN_URL" value="postgres://postgres:@localhost:5432/postgres" />
     </envs>
   </component>
 </application>
