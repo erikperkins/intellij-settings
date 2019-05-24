@@ -9,6 +9,7 @@
       <env key="ADMIN_URL" value="postgres://postgres:@localhost:5432/postgres" />
       <env key="PORT" value="80" />
       <env key="SF_SECURITYTOKEN" value="pjINLtui2RauRSfrptARZMoYh" />
+      <env key="REDIS_PASSWORD" value="test" />
     </envs>
   </component>
 </application>
