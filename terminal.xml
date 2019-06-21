@@ -11,6 +11,8 @@
       <env key="SF_SECURITYTOKEN" value="pjINLtui2RauRSfrptARZMoYh" />
       <env key="REDIS_PASSWORD" value="test" />
       <env key="TRANSMOGRIFAI_HOST" value="localhost" />
+      <env key="SF_CONSUMERKEY" value="3MVG9ZF4bs_.MKuil26F4ObQbE0OZEnc.rN5QMrN5feuXeB3ZSW7DCUUfdfNTOZEtlRjMy9VzJuwyCvqTGnpS" />
+      <env key="SF_CONSUMERSECRET" value="201ED2F7BE39B39171F49D58F52C7B4C71F4396EB26944B51D057173D9373C31" />
     </envs>
   </component>
 </application>
