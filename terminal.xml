@@ -1,18 +1,12 @@
 <application>
   <component name="TerminalOptionsProvider">
     <envs>
-      <env key="SF_ORGID" value="00D2E000001GOAn" />
-      <env key="SF_USERNAME" value="machine1@develop.sf.com" />
-      <env key="SF_PASSWORD" value="datascience0admin" />
       <env key="DATABASE_URL" value="postgres://test:test@localhost:5432/test" />
       <env key="REDIS_URL" value="redis://test:test@localhost:6379" />
       <env key="ADMIN_URL" value="postgres://postgres:@localhost:5432/postgres" />
       <env key="PORT" value="80" />
-      <env key="SF_SECURITYTOKEN" value="bkXmIjtsBzCcvjFViJ0MJw1TN" />
       <env key="REDIS_PASSWORD" value="test" />
       <env key="TRANSMOGRIFAI_HOST" value="localhost" />
-      <env key="SF_CONSUMERKEY" value="3MVG9ZF4bs_.MKuil26F4ObQbE0OZEnc.rN5QMrN5feuXeB3ZSW7DCUUfdfNTOZEtlRjMy9VzJuwyCvqTGnpS" />
-      <env key="SF_CONSUMERSECRET" value="201ED2F7BE39B39171F49D58F52C7B4C71F4396EB26944B51D057173D9373C31" />
     </envs>
   </component>
 </application>
