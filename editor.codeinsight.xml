@@ -1,18 +1,4 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="SHOW_EXTERNAL_ANNOTATIONS_INLINE" value="false" />
-    <option name="SHOW_METHOD_CHAIN_TYPES_INLINE" value="false" />
-    <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
-    <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
-    <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
-    <option name="AUTOCOMPLETE_ON_SMART_TYPE_COMPLETION" value="false" />
-    <option name="SMART_INDENT_ON_ENTER" value="false" />
-    <option name="SMART_END_ACTION" value="false" />
-    <option name="ADD_MEMBER_IMPORTS_ON_THE_FLY" value="false" />
-  </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="SHOW_ADD_IMPORT_HINTS" value="false" />
-  </component>
   <component name="XmlSettings">
     <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
   </component>
